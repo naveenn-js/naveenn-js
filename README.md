@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **naveennthree1999@gmail.com**
 
-- 🙏 Fun fact **My favorite framework? Grace. Everything else is built on that**
+- 🙏 Fun fact : **My favorite framework? Grace. Everything else is built on that**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
