@@ -10,6 +10,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nave.en_n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveenn-ai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NaveenN1472244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveennthree1999@gmail.com) 
 
+
 # 💻 Tech Stack
 
 ## 🧠 Generative AI
@@ -34,9 +35,9 @@
 ---
 
 ## 🧪 AI/ML
-| PyTorch | TensorFlow/Keras | Scikit-Learn | Pandas | NumPy | Matplotlib | Seaborn |
-|--|--|--|--|--|--|--|
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | ![Sklearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) | ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat-square&logo=seaborn) |
+| PyTorch | Scikit-Learn | Pandas | NumPy | Matplotlib | Seaborn |
+|--|--|--|--|--|--|
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Sklearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) | ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat-square&logo=seaborn) |
 
 ---
 
@@ -66,7 +67,9 @@
 | Figma | Canva | LeetCode |
 |--|--|--|
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) |
----
+
+
+
 
 
 # 📊 GitHub Stats:
